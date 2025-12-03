@@ -1,4 +1,4 @@
-# 🛒 Amazon Product Recommendation System (End-to-End Machine Learning Project)
+# 🛒 Amazon Product Recommendation System  
 
 This project implements a **production-style Product Recommendation System** using collaborative filtering and matrix factorization (SVD). The system learns user behavior from historical ratings and recommends relevant products for any user. A real-time interactive web app is built using **Streamlit**.
 
