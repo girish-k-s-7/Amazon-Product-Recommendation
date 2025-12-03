@@ -12,10 +12,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (optional – keep raw locally)
-data/raw/
-data/processed/
-
 # OS files
 .DS_Store
 Thumbs.db
