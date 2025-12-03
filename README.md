@@ -73,7 +73,7 @@ Performed in `01_data_cleaning.ipynb`
 Performed in `02_eda.ipynb`
 
 Key insights:
-- Rating imbalance (~64% rated ★★★★★)
+- Rating imbalance 
 - Highly sparse user–item matrix
 - Long-tail distribution
 - Few users generate most activity
@@ -120,5 +120,6 @@ An interactive recommendation system built using Streamlit.
 
 ## 👨‍💻 Author
 **Girish K S**
+
 Data Scientists
 
