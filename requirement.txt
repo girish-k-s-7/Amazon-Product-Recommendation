@@ -2,7 +2,7 @@ numpy
 pandas  
 scipy  
 scikit-learn  
-lightfm  
 matplotlib  
 seaborn
+streamlit
 - e.
