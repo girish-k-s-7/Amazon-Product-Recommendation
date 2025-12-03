@@ -1,0 +1,27 @@
+# Virtual environment
+.venv310/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (optional – keep raw locally)
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
